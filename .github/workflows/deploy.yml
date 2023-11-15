@@ -1,4 +1,4 @@
-name : nom_custom_workflow
+name : deploy-website
 
 on:
   push:
